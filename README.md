@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/CYBER-STARK">
         <img
-src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+It+Is+Me+Aryan+In+Redhackers"
+src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+It+Is+Me+Stark"
             alt="Typing SVG"
         />
     </a>
